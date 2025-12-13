@@ -25,11 +25,15 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
 
   function ContentMetadata({ cfg, fileData, displayClass }: QuartzComponentProps) {
     const text = fileData.text
+    
+    // Prüfe ob hideDate im Frontmatter gesetzt ist
+    const hideDate = fileData.frontmatter?.hideDate === true
 
     if (text) {
       const segments: (string | JSX.Element)[] = []
 
-      if (fileData.dates) {
+      // Nur Datum hinzufügen wenn nicht versteckt
+      if (!hideDate && fileData.dates) {
         segments.push(<Date date={getDate(cfg, fileData)!} locale={cfg.locale} />)
       }
 

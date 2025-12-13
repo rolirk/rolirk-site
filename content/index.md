@@ -1,5 +1,6 @@
 ---
 title: Start
+hideDate: "true"
 ---
 
 This is a blank Quartz installation.
