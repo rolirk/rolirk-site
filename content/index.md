@@ -1,6 +1,5 @@
 ---
 title: Start
-date: "false"
 ---
 
 This is a blank Quartz installation.
