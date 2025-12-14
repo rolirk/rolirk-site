@@ -5,4 +5,4 @@ hideDate: true
 ---
 Nichtlineares Sammelsurium in tendenziell weit gefassten Kategorien aus: 
 
-[[Training]], [[Technik]] und [[Kreativem]] im weitesten Sinne. 
+[[Training]], [[Technik]] und [[Kreatives]] im weitesten Sinne. 
