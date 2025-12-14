@@ -3,6 +3,6 @@ title: Start
 date: 2024-12-13
 hideDate: true
 ---
+Nichtlineares Sammelsurium in tendenziell weit gefassten Kategorien aus: 
 
-This is a blank Quartz installation.
-
+[[Training]], [[Technik]] und [Kreativem][Kreatives] im weitesten Sinne. 
